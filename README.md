@@ -6,7 +6,7 @@
 <h2 id="️-sobre-mim">⚡🙋‍♂️ About me</h2>
 <br>
 <ul>
-<li>🧑‍🦱 16 Years old</li>
+<li>🧑‍🦱 18 Years old</li>
 <li>😄 Love Something</li>
 <li>📫 Contact me: <a href="mailto:fikriarisaputra10281@gmail.com">fikriarisaputra10281@gmail.com</a></li>
 </ul>
