@@ -22,7 +22,7 @@
 </div>
 <div bis_skin_checked="1">
 <div align="center" bis_skin_checked="1"> 
-<a href="https://www.instagram.com/-/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" &#x3c;="" a="">
+<a href="https://www.instagram.com/fkri.arr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" &#x3c;="" a="">
 </a><a href="mailto:fikriarisaputra10281@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/-/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="border-radius: 50px" target="_blank"></a> 
  </div>
